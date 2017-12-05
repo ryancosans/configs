@@ -1,0 +1,18 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "typescript.useCodeSnippetsOnMethodSuggest": true,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "editor.fontSize": 13,
+  "vsicons.projectDetection.autoReload": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.minimap.enabled": false,
+  "editor.minimap.maxColumn": 120,
+  "editor.codeLens": false,
+  "window.zoomLevel": 0,
+  "editor.renderWhitespace": "all",
+  "editor.trimAutoWhitespace": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.colorTheme": "Dark++",
+  "workbench.startupEditor": "none"
+}
