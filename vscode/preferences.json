@@ -4,6 +4,11 @@
   "files.autoSave": "onFocusChange",
   "editor.tabSize": 2,
   "editor.fontSize": 13,
+  "[csharp]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.autoIndent": true
+  },
   "vsicons.projectDetection.autoReload": true,
   "workbench.iconTheme": "vscode-icons",
   "editor.minimap.enabled": false,
