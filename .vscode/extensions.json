@@ -6,8 +6,8 @@
     "azemoh.one-monokai",
     "mauve.terraform",
     "ms-vscode.csharp",
-    "robertohuertasm.vscode-icons",
     "vscjava.vscode-maven",
-    "vscjava.vscode-java-pack"
+    "vscjava.vscode-java-pack",
+    "vscode-icons-team.vscode-icons"
   ]
 }
