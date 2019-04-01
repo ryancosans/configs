@@ -7,3 +7,7 @@ a simple repo to hold all the configs for things I use
 - import 76.terminal to terminal
 - install [docker](https://store.docker.com/search?type=edition&offering=community)
 - install [vscode](https://code.visualstudio.com/)
+
+```
+git config --global alias.co checkout
+```
