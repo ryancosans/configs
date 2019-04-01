@@ -31,6 +31,15 @@ Next, open a new terminal or enter:
 source "$HOME/.sdkman/bin/sdkman-init.sh"
 ```
 
+install java
+```bash
+sdk list java
+```
+
+```bash
+sdk install java [version]
+```
+
 ## raw
 info stolen from [Solarian Programmer](https://solarianprogrammer.com/2018/09/28/installing-openjdk-macos/)
 
