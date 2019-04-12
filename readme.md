@@ -1,10 +1,10 @@
-# configs
+# Configs
 
 a simple repo to hold all the configs for things I use
 
-## things to remember
 
-- import 76.terminal to terminal
+# Generic
+
 - install [docker](https://www.docker.com/products/docker-desktop)
 - install [vscode](https://code.visualstudio.com/)
 
@@ -14,9 +14,17 @@ git config --global user.name "Your Name"
 git config --global user.email you@example.com
 ```
 
-# java
+---
 
-## sdkman
+## Styles
+
+ [![draculatheme](/dracula/dracula.gif)](https://draculatheme.com/)
+
+ ---
+
+# Java
+
+## Sdkman
 
 Simply open a new terminal and enter:
 
@@ -40,7 +48,7 @@ sdk list java
 sdk install java [version]
 ```
 
-## raw
+## Raw
 info stolen from [Solarian Programmer](https://solarianprogrammer.com/2018/09/28/installing-openjdk-macos/)
 
 Start by getting [OpenJDK](http://jdk.java.net/11/), chose the macOS version. Extract the archive by double clicking on the file or, assuming it is in your Downloads folder, write this in your Terminal:

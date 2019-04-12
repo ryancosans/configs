@@ -1,0 +1,15 @@
+[submodule "dracula/terminal-app"]
+	path = dracula/terminal-app
+	url = https://github.com/dracula/terminal-app.git
+[submodule "dracula/jetbrains"]
+	path = dracula/jetbrains
+	url = https://github.com/dracula/jetbrains.git
+[submodule "dracula/xcode"]
+	path = dracula/xcode
+	url = https://github.com/dracula/xcode.git
+[submodule "dracula/visual-studio-code"]
+	path = dracula/visual-studio-code
+	url = https://github.com/dracula/visual-studio-code.git
+[submodule "dracula/notepad-plus-plus"]
+	path = dracula/notepad-plus-plus
+	url = https://github.com/dracula/notepad-plus-plus.git
