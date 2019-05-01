@@ -2,7 +2,6 @@
 
 a simple repo to hold all the configs for things I use
 
-
 # Generic
 
 - install [docker](https://www.docker.com/products/docker-desktop)
@@ -14,6 +13,13 @@ git config --global user.name "Your Name"
 git config --global user.email you@example.com
 ```
 
+---
+
+## Sub modules
+
+```bash
+git submodule update --init --recursive
+```
 ---
 
 ## Styles
