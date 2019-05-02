@@ -13,6 +13,10 @@ git config --global user.name "Your Name"
 git config --global user.email you@example.com
 ```
 
+kill the ports!
+```bash
+kill $(lsof -t -i :portno)
+```
 ---
 
 ## Sub modules
