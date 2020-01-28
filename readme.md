@@ -17,6 +17,12 @@ kill the ports!
 ```bash
 kill $(lsof -t -i :portno)
 ```
+
+launch chrome in super sneaky mode
+
+```bash
+open -a Google\ Chrome --args --incognito --disable-web-security --user-data-dir --disable-features=CrossSiteDocumentBlockingIfIsolating,CrossSiteDocumentBlockingAlways
+```
 ---
 
 ## Sub modules

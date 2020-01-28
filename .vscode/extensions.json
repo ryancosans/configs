@@ -6,10 +6,22 @@
     "azemoh.one-monokai",
     "mauve.terraform",
     "ms-vscode.csharp",
-    "vscjava.vscode-maven",
-    "vscjava.vscode-java-pack",
     "vscode-icons-team.vscode-icons",
     "dracula-theme.theme-dracula",
-    "kasik96.swift"
+    "kasik96.swift",
+
+    //java
+    "vscjava.vscode-maven",
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-java-dependency",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-test",
+    "redhat.java",
+    "vscjava.vscode-spring-boot-dashboard",
+    "pivotal.vscode-spring-boot",
+    "vscjava.vscode-spring-initializr",
+    "juhahinkula.thymeleaf",
+    "gabrielbb.vscode-lombok",
+    "naco-siren.gradle-language"
   ]
 }
