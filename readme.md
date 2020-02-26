@@ -23,6 +23,12 @@ launch chrome in super sneaky mode
 ```bash
 open -a Google\ Chrome --args --incognito --disable-web-security --user-data-dir --disable-features=CrossSiteDocumentBlockingIfIsolating,CrossSiteDocumentBlockingAlways
 ```
+
+fuck with the power management settings using
+```bash
+pmset
+```
+
 ---
 
 ## Sub modules
